@@ -570,7 +570,9 @@ MonoBehaviour:
     SerializedFormat: 2
     SerializedBytes: 
     ReferencedUnityObjects:
-    - {fileID: 11400000, guid: eef93b9d2ab51d84cb39f26dd869a95a, type: 2}
+    - {fileID: 11400000, guid: 824b9ff15041a634d9c17446fd1a66e9, type: 2}
+    - {fileID: 11400000, guid: 707ba78707e46be4d8f6491d1052187e, type: 2}
+    - {fileID: 11400000, guid: df29c55bd1123384fa541fbd68fb43ef, type: 2}
     SerializedBytesString: 
     Prefab: {fileID: 0}
     PrefabModificationsReferencedUnityObjects: []
@@ -581,16 +583,23 @@ MonoBehaviour:
       Data: 0|ISomeInterface[], FFStudio
     - Name: 
       Entry: 12
-      Data: 1
+      Data: 3
     - Name: 
       Entry: 10
       Data: 0
+    - Name: 
+      Entry: 10
+      Data: 1
+    - Name: 
+      Entry: 10
+      Data: 2
     - Name: 
       Entry: 13
       Data: 
     - Name: 
       Entry: 8
       Data: 
+  testSSO: {fileID: 11400000, guid: 6b026265214b2cc43aea69451f4b7212, type: 2}
 --- !u!4 &1612868627
 Transform:
   m_ObjectHideFlags: 0
